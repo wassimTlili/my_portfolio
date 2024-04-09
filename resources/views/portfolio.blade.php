@@ -10,6 +10,8 @@
 
     <!-- Favicons -->
     <link rel="icon" type="image/png" href="{{ asset('img/favicon.png') }}">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 
 
     <!-- Bootstrap CSS -->
