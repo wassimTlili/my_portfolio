@@ -102,10 +102,10 @@
                             <div class="col-md-10">
                                 <div class="social-bar">
                                     <div class="social-icons mb-3 iconpad text-center">
-                                        <a href="https://www.facebook.com" target="_blank" class="slider-nav-item"><i class="fab fa-facebook"></i></a>
-                                        <a href="https://www.linkedin.com" target="_blank" class="slider-nav-item"><i class="fab fa-linkedin"></i></a>
-                                        <a href="https://www.instagram.com" target="_blank" class="slider-nav-item"><i class="fab fa-instagram"></i></a>
-                                        <a href="https://api.whatsapp.com/send?phone=123456789" target="_blank" class="slider-nav-item"><i class="fab fa-whatsapp"></i></a>
+                                        <a href="https://www.facebook.com/gold.oussam/" target="_blank" class="slider-nav-item"><i class="fab fa-facebook"></i></a>
+                                        <a href="https://www.linkedin.com/in/wassim-tlili-b4238825a/" target="_blank" class="slider-nav-item"><i class="fab fa-linkedin"></i></a>
+                                        <a href="https://www.instagram.com/wassim_tlili.10/" target="_blank" class="slider-nav-item"><i class="fab fa-instagram"></i></a>
+                                        <a href="https://api.whatsapp.com/send?phone=0021626517712" target="_blank" class="slider-nav-item"><i class="fab fa-whatsapp"></i></a>
                                     </div>
                                 </div>
                             </div>
